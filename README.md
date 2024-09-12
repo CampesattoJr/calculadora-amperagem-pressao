@@ -20,6 +20,6 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 ## Link to the Page
-<a href="https://campesattojr.github.io/calculadora-amperagem-pressao/" target="_blank">
+<a href="https://campesattojr.github.io/calculadora-amperagem-pressao/">
 Click here
 </a>
